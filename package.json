@@ -1,0 +1,17 @@
+{
+  "name": "js-003",
+  "version": "1.0.0",
+  "description": "Control structures",
+  "main": "main.js",
+  "scripts": {
+    "start": "node scripts/factorial-break",
+    "test": "No test"
+  },
+  "keywords": [
+    "javascript",
+    "control",
+    "structures"
+  ],
+  "author": "Dario Perez",
+  "license": "ISC"
+}
